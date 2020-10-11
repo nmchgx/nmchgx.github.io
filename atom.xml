@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>陈高勋的博客</title>
+  
+  
+  <link href="https://nmchgx.com/atom.xml" rel="self"/>
+  
+  <link href="https://nmchgx.com/"/>
+  <updated>2020-10-10T09:26:24.270Z</updated>
+  <id>https://nmchgx.com/</id>
+  
+  <author>
+    <name>陈高勋</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用命令行批量更新macOS软件</title>
+    <link href="https://nmchgx.com/update-all-macos-software-using-command-line/"/>
+    <id>https://nmchgx.com/update-all-macos-software-using-command-line/</id>
+    <published>2017-10-09T16:00:00.000Z</published>
+    <updated>2020-10-10T09:26:24.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;嗯，就是想用命令行一键更新所有的软件，消除各种红点!&lt;/p&gt;
+&lt;p&gt;使用OS X（macOS）之后极大的满足了我折腾管理软件的诉求。从最开始的搭建python环境接触到 &lt;a href=&quot;https://brew.sh/&quot;&gt;Homebrew&lt;/a&gt;，再到使用 &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的写作环境</title>
+    <link href="https://nmchgx.com/my-writting-environment/"/>
+    <id>https://nmchgx.com/my-writting-environment/</id>
+    <published>2017-03-06T16:00:00.000Z</published>
+    <updated>2020-10-10T09:26:24.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;接触Markdown格式的写作比较晚，带我入门的是 &lt;strong&gt;简书&lt;/strong&gt;。平常主力写作还是在Macbook Pro上，也偶尔在iPhone上记笔记，所以想找个支持多平台同步的简洁好用的Markdown编辑器。写作工具尝试了很多，试过&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>利用GitHook持续部署Hexo博客</title>
+    <link href="https://nmchgx.com/githook-for-hexo-deployment/"/>
+    <id>https://nmchgx.com/githook-for-hexo-deployment/</id>
+    <published>2017-02-28T16:00:00.000Z</published>
+    <updated>2020-10-10T09:26:24.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo博客&lt;/a&gt;是一款基于Node.js的静态博客框架。&lt;/p&gt;
+&lt;h1 id=&quot;安装Hexo&quot;&gt;&lt;a href=&quot;#安装Hexo&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>用acme.sh申请免费的HTTPS证书</title>
+    <link href="https://nmchgx.com/acme-https/"/>
+    <id>https://nmchgx.com/acme-https/</id>
+    <published>2017-01-27T16:00:00.000Z</published>
+    <updated>2020-10-10T09:26:24.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;拜读了 &lt;a href=&quot;https://imququ.com/&quot;&gt;屈光宇&lt;/a&gt; 老师的文章：&lt;a href=&quot;https://imququ.com/post/letsencrypt-certificate.html&quot;&gt;Let’s Encrypt，免费好用的 HTTPS</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ghost博客添加对象云存储支持</title>
+    <link href="https://nmchgx.com/ghostblog-object-storage/"/>
+    <id>https://nmchgx.com/ghostblog-object-storage/</id>
+    <published>2017-01-22T16:00:00.000Z</published>
+    <updated>2020-10-10T09:26:24.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;官方原版的&lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost博客&lt;/a&gt;是不支持对象云存储的，平时习惯了图像等资源存储到&lt;a href=&quot;https://www.qiniu.com/&quot;&gt;七牛云&lt;/a&gt;或&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Centos6启用FTP服务</title>
+    <link href="https://nmchgx.com/configure-ftp-on-centos/"/>
+    <id>https://nmchgx.com/configure-ftp-on-centos/</id>
+    <published>2017-01-06T16:00:00.000Z</published>
+    <updated>2020-10-10T09:26:24.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;服务器启用FTP服务，可以很方便的在服务器和本地设备之间传输数据，以下是在&lt;strong&gt;Centos6.5&lt;/strong&gt;环境下配置的记录，同样适用于其他版本的&lt;strong&gt;Centos6.x&lt;/strong&gt;系统。&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>实践：Java代码静态分析函数调用及生成时序图</title>
+    <link href="https://nmchgx.com/analysis-java-with-static-method/"/>
+    <id>https://nmchgx.com/analysis-java-with-static-method/</id>
+    <published>2017-01-02T16:00:00.000Z</published>
+    <updated>2020-10-10T09:26:24.269Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Step1：生成Java代码静态分析结果&quot;&gt;&lt;a href=&quot;#Step1：生成Java代码静态分析结果&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>用PHP下载网络图片到本地</title>
+    <link href="https://nmchgx.com/php-image-download/"/>
+    <id>https://nmchgx.com/php-image-download/</id>
+    <published>2016-08-01T16:00:00.000Z</published>
+    <updated>2020-10-10T09:26:24.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近写项目，要对存储在七牛云的图片进行汉明码处理，需要把网络图片存储到本地再计算汉明码。但用PHP下载图片到本地还是遇到了一些坑点，记录一下解决的整个过程。&lt;/p&gt;
+&lt;h1 id=&quot;建立本地存储文件夹&quot;&gt;&lt;a href=&quot;#建立本地存储文件夹&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Eclipse 下开发 AspectJ</title>
+    <link href="https://nmchgx.com/aspectj-eclipse/"/>
+    <id>https://nmchgx.com/aspectj-eclipse/</id>
+    <published>2016-03-13T16:00:00.000Z</published>
+    <updated>2020-10-10T09:26:24.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;AspectJ是一个面向切面的框架，它扩展了Java语言。AspectJ定义了AOP语法所以它有一个专门的编译器用来生成遵守Java字节编码规范的Class文件。 – &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>IntelliJ IDEA 下开发 AspectJ</title>
+    <link href="https://nmchgx.com/eclipse-idea/"/>
+    <id>https://nmchgx.com/eclipse-idea/</id>
+    <published>2016-03-11T16:00:00.000Z</published>
+    <updated>2020-10-10T09:26:24.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;AspectJ是一个面向切面的框架，它扩展了Java语言。AspectJ定义了AOP语法所以它有一个专门的编译器用来生成遵守Java字节编码规范的Class文件。 – &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
